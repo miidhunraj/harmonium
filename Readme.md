@@ -115,6 +115,7 @@ open index.html
 ## 👨‍💻 Developer
 
 **Midhun Raj**
+
 BCA Student | Cybersecurity & AI Enthusiast
 
 ---
