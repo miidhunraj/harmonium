@@ -78,7 +78,7 @@ White Keys: ` q w e r t y u i o p [ ] \
 ## 🚀 Live Demo
 
 👉 Add your GitHub Pages link here
-Example: https://your-username.github.io/web-harmonium/
+Example: https://miidhunraj.github.io/harmonium/
 
 ---
 
@@ -93,8 +93,8 @@ Example: https://your-username.github.io/web-harmonium/
 ## 📦 Installation (Optional)
 
 ```bash
-git clone https://github.com/your-username/web-harmonium.git
-cd web-harmonium
+git clone https://github.com/miidhunraj/harmonium.git
+cd harmonium
 open index.html
 ```
 
@@ -107,6 +107,8 @@ open index.html
 * online keyboard instrument
 * Indian harmonium simulator
 * browser harmonium
+* web harmonium
+* rajaraman iyer harmonium
 
 ---
 
