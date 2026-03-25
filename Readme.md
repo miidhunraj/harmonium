@@ -1,4 +1,4 @@
-# 🎹 Web Harmonium – Play Harmonium Online
+# 🎹 Virtual Harmonium – Play Harmonium Online
 
 *A Free Virtual Indian Harmonium You Can Play in Your Browser*
 
@@ -114,7 +114,7 @@ open index.html
 
 ## 👨‍💻 Developer
 
-**Midhun Raj**
+**Midhun Raj** miidhunraj@gmail.com
 
 BCA Student | Cybersecurity & AI Enthusiast
 
